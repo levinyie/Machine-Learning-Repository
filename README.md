@@ -5,7 +5,7 @@ Project 4
 
 This project focuses on creating a machine learning model to evaluate the relative importance of various expenditure features and their relevance in determining an individual's credit score based off of their expenditure's importance. The features considered are:
 
-Clothing /n
+Clothing
 Education
 Entertainment
 Fines
