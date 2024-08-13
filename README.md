@@ -18,6 +18,9 @@ Travel
 Utilities
 
 The goal is to understand which of these factors has the most significant impact on expenditures, which plays a major role when it comes to expenditure and debt which is relevant to credit score.
+One significant factor of Credit Score is the income to debt ratio, meaning the income that's dedicated to debt payments. However, debt can be a factor of larger loans or credit lines from higher income,
+strategic debt such as investments, and higher spending. Majority of debt is due to expenditures and the data is available with multiple features, therefore a model to predict the importance of these features is extremely
+relevant.
 
 Project Structure
 The project is organized into the following sections:
