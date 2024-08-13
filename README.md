@@ -67,3 +67,5 @@ Insights: Insights will be drawn regarding which financial behaviors (e.g., redu
 Recommendations: Practical recommendations for individuals or institutions based on the feature importance analysis.
 Future Work: Suggestions for further research or model improvements, such as incorporating additional features like employment history, loan types, or credit history duration.
 
+Storyboard Presentation Via Tableau : https://public.tableau.com/authoring/CreditDataReport/Story1_1#1
+
