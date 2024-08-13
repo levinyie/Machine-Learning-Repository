@@ -5,17 +5,17 @@ Project 4
 
 This project focuses on creating a machine learning model to evaluate the relative importance of various expenditure features and their relevance in determining an individual's credit score based off of their expenditure's importance. The features considered are:
 
-*Clothing
-*Education
-*Entertainment
-*Fines
-*Gambling
-*Groceries
-*Health
-*Housing
-*Tax
-*Travel
-*Utilities
+- Clothing
+- Education
+- Entertainment
+- Fines
+- Gambling
+- Groceries
+- Health
+- Housing
+- Tax
+- Travel
+- Utilities
 
 The goal is to understand which of these factors has the most significant impact on expenditures, which plays a major role when it comes to expenditure and debt which is relevant to credit score.
 One significant factor of Credit Score is the income to debt ratio, meaning the income that's dedicated to debt payments. However, debt can be a factor of larger loans or credit lines from higher income,
